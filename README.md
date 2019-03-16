@@ -9,4 +9,4 @@ Language Used
 3.JS
 <br>
 <br>
-LINK: http://indrajeet67.freeiz.com
+http://indrajeet67.freeiz.com
